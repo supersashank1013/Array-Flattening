@@ -1,4 +1,3 @@
-
 function flattenArray(arr)
  {
   let result = [];
